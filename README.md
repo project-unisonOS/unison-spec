@@ -9,3 +9,9 @@ Scope:
 - Version compatibility between modules.
 
 Any module in the platform must conform to these contracts. CI will block merges if it does not.
+
+## Status
+Core contracts (active) — source of truth for schemas; keep in sync with service implementations.
+
+## Testing
+Validate changes by running JSON schema validators or contract checks in dependent services; formal test harness TBD.
