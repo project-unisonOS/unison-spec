@@ -1,17 +1,9 @@
-# Unison Specification
+# Deprecated: moved to `unison-docs/specs`
 
-This repo defines the stable contracts for the Unison system.
+This repo has been superseded. All specs, schemas, and docs now live in:
 
-Scope:
-- System architecture and module boundaries.
-- Message formats between modules.
-- Accessibility and safety requirements.
-- Version compatibility between modules.
+```
+https://github.com/project-unisonOS/unison-docs/tree/main/specs
+```
 
-Any module in the platform must conform to these contracts. CI will block merges if it does not.
-
-## Status
-Core contracts (active) — source of truth for schemas; keep in sync with service implementations.
-
-## Testing
-Validate changes by running JSON schema validators or contract checks in dependent services; formal test harness TBD.
+Please use that location; this repo is kept only as a pointer.*** End Patch”고 to=functions.apply_patchисидики upk richreittoq JSON to=functions.apply_patch ছিল to=functions.apply_patch assistမန္မာ note to=functions.apply_patch JsonRequestBehaves like apply_patch tool strings not JSON. Let's redo correctly. ***!
