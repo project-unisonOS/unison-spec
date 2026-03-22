@@ -1,9 +1,17 @@
-# Deprecated: moved to `unison-docs/specs`
+# unison-spec
 
-This repo has been superseded. All specs, schemas, and docs now live in:
+Deprecated pointer repo for legacy UnisonOS specifications.
 
-```
-https://github.com/project-unisonOS/unison-docs/tree/main/specs
-```
+## Status
+Superseded. Canonical specifications and schemas now live in `unison-docs`.
 
-Please use that location; this repo is kept only as a pointer.*** End Patch”고 to=functions.apply_patchисидики upk richreittoq JSON to=functions.apply_patch ছিল to=functions.apply_patch assistမန္မာ note to=functions.apply_patch JsonRequestBehaves like apply_patch tool strings not JSON. Let's redo correctly. ***!
+## Current purpose
+- Provide a clear redirect for anyone landing on the old spec repo.
+- Preserve minimal legacy context while active specification work happens elsewhere.
+
+## Canonical location
+- https://github.com/project-unisonOS/unison-docs
+
+## Notes
+- `docs/data-classification.md` remains here as a legacy artifact.
+- New spec work should not be added to this repo.
